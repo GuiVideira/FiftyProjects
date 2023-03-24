@@ -1,14 +1,19 @@
 # FiftyProjects
 Desenvolvimento de 50 projetos em Flutter, com o intuito de melhorar meus aprendizados nessa tecnologia.
 
-Projetos:
+<h3>Projetos:</h3>
 1 - SwitchLight
 <br>
 2 -
+<br>
 3 -
+<br>
 4 -
+<br>
 5 -
+<br>
 6 -
+<br>
 7 -
 8 -
 9 -
