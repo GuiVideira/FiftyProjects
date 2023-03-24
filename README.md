@@ -3,6 +3,7 @@ Desenvolvimento de 50 projetos em Flutter, com o intuito de melhorar meus aprend
 
 Projetos:
 1 - SwitchLight
+<br>
 2 -
 3 -
 4 -
