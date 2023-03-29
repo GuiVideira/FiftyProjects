@@ -4,7 +4,7 @@ Desenvolvimento de 50 projetos em Flutter, com o intuito de melhorar meus aprend
 <h3>Projetos:</h3>
 1 - SwitchLight
 <br>
-2 -
+2 - SneakerApp
 <br>
 3 -
 <br>
